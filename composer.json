@@ -17,5 +17,7 @@
         "psr-4": {
             "Knock\\Calculator\\": "packsesg/knock/src"
         }
-    }
+    },
+    "minimum-stability": "dev"
+
 }
